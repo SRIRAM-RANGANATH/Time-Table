@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="default_colors">
+        <item>#FFB3BA</item> <!-- Light Pink -->
+        <item>#FFDFBA</item> <!-- Peach -->
+        <item>#FFFFBA</item> <!-- Light Yellow -->
+        <item>#BAFFC9</item> <!-- Mint Green -->
+        <item>#BAE1FF</item> <!-- Light Blue -->
+    </array>
+</resources>

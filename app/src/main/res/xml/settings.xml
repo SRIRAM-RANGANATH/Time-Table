@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.preference.SwitchPreference
+        android:key="sevendays"
+        android:title="@string/seven_days_of_the_week"
+        android:summary="@string/sevendays_setting"
+        android:icon="@drawable/baseline_view_week_black_18"
+        android:defaultValue="false" />
+
+    <androidx.preference.EditTextPreference
+        android:key="schoolwebsite"
+        android:title="@string/school_website_setting"
+        android:summary="@string/school_website_setting_summary"
+        android:icon="@drawable/baseline_open_in_browser_black_18"
+        android:selectAllOnFocus="true"
+        android:singleLine="true" />
+
+</PreferenceScreen>
